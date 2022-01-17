@@ -1,0 +1,138 @@
+15:07:59.880 [main] INFO  transactionLogger - INFO TEST
+15:08:42.671 [main] INFO  transactionLogger - INFO TEST
+15:10:10.751 [main] INFO  transactionLogger - INFO TEST
+20:56:46.322 [main] INFO  transactionLogger - pending request stored in database
+21:59:50.927 [main] INFO  transactionLogger - pending request stored in database
+22:00:05.676 [main] INFO  transactionLogger - pending request stored in database
+22:24:27.122 [main] INFO  transactionLogger - pending request stored in database
+22:41:03.176 [main] INFO  transactionLogger - pending request stored in database
+23:59:20.223 [main] INFO  transactionLogger - pending request stored in database
+00:00:00.728 [main] INFO  transactionLogger - pending request stored in database
+00:01:17.497 [main] INFO  transactionLogger - pending request stored in database
+00:03:51.064 [main] INFO  transactionLogger - pending request stored in database
+16:03:12.406 [main] INFO  transactionLogger - pending request stored in database
+16:11:59.117 [main] INFO  transactionLogger - pending request stored in database
+18:21:06.206 [main] INFO  transactionLogger - completed store completed request in database
+18:24:36.809 [main] INFO  transactionLogger - completed store completed request in database
+18:28:30.630 [main] INFO  tLog - Completed store completed request in database: class com.revature.service.handleRequest.CompletedRequestService
+19:30:48.997 [main] INFO  tLog - Completed store completed request in database: class com.revature.service.handleRequest.CompletedRequestService
+19:37:28.301 [main] INFO  tLog - Completed store completed request in database: class com.revature.service.handleRequest.CompletedRequestService
+19:37:57.193 [main] INFO  tLog - pending request1stored in database
+23:33:30.616 [main] INFO  tLog - pending request1stored in database
+23:33:44.622 [main] INFO  tLog - Completed store completed request in database: {"CompletedRequest":{"id":"1", "managerId":"1", "status":"true", "response":"You are not here", "dateResolved":2021-02-02}}
+13:04:37.066 [main] INFO  tLog - Completed store completed request in database: {"CompletedRequest":{"id":"1", "managerId":"1", "status":"true", "response":"You are not here", "dateResolved":2021-02-02}}
+15:36:47.392 [JettyServerThreadPool-37] INFO  tLog - Finding employee: 
+15:37:31.233 [JettyServerThreadPool-22] INFO  tLog - Finding employee: 
+15:48:10.336 [JettyServerThreadPool-34] INFO  tLog - Validating login: 
+15:48:16.841 [JettyServerThreadPool-24] INFO  tLog - Validating login: {
+    "username": "knight1",
+    "password": "pass1"
+}
+15:49:49.622 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+16:22:11.907 [main] INFO  tLog - Completed store completed request in database: {"CompletedRequest":{"id":"1", "employeeId":"2", "managerId":"1", "status":"true", "response":"You are not here", "dateResolved":2021-02-02}}
+16:22:23.195 [main] INFO  tLog - pending request1stored in database
+17:06:10.066 [JettyServerThreadPool-41] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"1", "type":"Travel", "requestMessage":"I need money for going somewhere.", "amount":"200.55", "dateSubmission":2022-01-07}}
+17:07:56.771 [JettyServerThreadPool-21] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"1", "type":"Travel", "requestMessage":"I need money for going somewhere.", "amount":"200.0", "dateSubmission":2022-01-07}}
+17:10:23.536 [JettyServerThreadPool-35] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"1", "type":"Travel", "requestMessage":"I need money for going somewhere.", "amount":"200.6", "dateSubmission":2022-01-07}}
+17:10:24.516 [JettyServerThreadPool-35] INFO  tLog - pending request1stored in database
+17:12:37.262 [JettyServerThreadPool-27] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"1", "type":"Consumable", "requestMessage":"I need money for buying too many potions.", "amount":"99.92", "dateSubmission":2022-01-07}}
+17:12:38.360 [JettyServerThreadPool-27] INFO  tLog - pending request2stored in database
+17:23:17.101 [JettyServerThreadPool-35] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"2", "type":"Consumable", "requestMessage":"I need money for potions.", "amount":"1123.23", "dateSubmission":2022-01-07}}
+17:23:18.095 [JettyServerThreadPool-35] INFO  tLog - pending request3stored in database
+19:39:55.200 [JettyServerThreadPool-39] INFO  tLog - Completed store completed request in database: {"CompletedRequest":{"id":"2", "employeeId":"1", "managerId":"11", "status":"true", "response":"This is all perfectly normal.", "dateResolved":2022-01-07}}
+20:15:18.672 [JettyServerThreadPool-27] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"3", "type":"Travel", "requestMessage":"Las Vegas baby", "amount":"0.05", "dateSubmission":2022-01-07}}
+20:15:19.796 [JettyServerThreadPool-27] INFO  tLog - pending request4stored in database
+20:16:16.995 [JettyServerThreadPool-23] INFO  tLog - Completed store completed request in database: {"CompletedRequest":{"id":"3", "employeeId":"2", "managerId":"12", "status":"false", "response":"Request for more bro.", "dateResolved":2022-01-07}}
+20:21:07.133 [JettyServerThreadPool-39] INFO  tLog - Validating login:
+20:36:49.828 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+20:44:41.921 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+20:45:32.130 [JettyServerThreadPool-24] INFO  tLog - Validating login:
+20:45:57.633 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+21:28:17.116 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+21:33:12.177 [JettyServerThreadPool-40] INFO  tLog - Validating login:
+21:34:22.846 [JettyServerThreadPool-25] INFO  tLog - Validating login:
+21:36:36.448 [JettyServerThreadPool-42] INFO  tLog - Validating login:
+21:41:12.815 [JettyServerThreadPool-45] INFO  tLog - Validating login:
+21:49:38.083 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+22:53:52.720 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+22:54:56.567 [JettyServerThreadPool-27] INFO  tLog - Validating login:
+23:02:10.758 [JettyServerThreadPool-40] INFO  tLog - Validating login:
+23:02:50.382 [JettyServerThreadPool-24] INFO  tLog - Validating login:
+23:03:50.686 [JettyServerThreadPool-22] INFO  tLog - Validating login:
+23:05:17.749 [JettyServerThreadPool-23] INFO  tLog - Validating login:
+23:05:34.740 [JettyServerThreadPool-41] INFO  tLog - Validating login:
+23:05:53.411 [JettyServerThreadPool-22] INFO  tLog - Validating login:
+23:06:11.005 [JettyServerThreadPool-41] INFO  tLog - Validating login:
+23:08:03.940 [JettyServerThreadPool-25] INFO  tLog - Validating login:
+23:09:51.052 [JettyServerThreadPool-44] INFO  tLog - Validating login:
+23:10:06.396 [JettyServerThreadPool-44] INFO  tLog - Validating login:
+23:10:18.659 [JettyServerThreadPool-43] INFO  tLog - Validating login:
+23:10:56.109 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+23:11:52.061 [JettyServerThreadPool-35] INFO  tLog - Validating login:
+23:15:27.981 [JettyServerThreadPool-48] INFO  tLog - Validating login:
+23:16:04.106 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+23:17:03.623 [JettyServerThreadPool-23] INFO  tLog - Validating login:
+23:23:36.477 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+23:24:35.254 [JettyServerThreadPool-24] INFO  tLog - Validating login:
+23:25:01.963 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+23:25:33.348 [JettyServerThreadPool-22] INFO  tLog - Validating login:
+23:27:29.509 [JettyServerThreadPool-39] INFO  tLog - Validating login:
+23:28:24.180 [JettyServerThreadPool-25] INFO  tLog - Validating login:
+23:29:25.876 [JettyServerThreadPool-27] INFO  tLog - Validating login:
+23:29:47.332 [JettyServerThreadPool-39] INFO  tLog - Validating login:
+23:30:13.780 [JettyServerThreadPool-40] INFO  tLog - Validating login:
+23:31:24.598 [JettyServerThreadPool-28] INFO  tLog - Validating login:
+23:32:45.644 [JettyServerThreadPool-23] INFO  tLog - Validating login:
+23:33:07.083 [JettyServerThreadPool-39] INFO  tLog - Validating login:
+23:33:37.491 [JettyServerThreadPool-42] INFO  tLog - Validating login:
+23:56:02.221 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+23:57:00.439 [JettyServerThreadPool-25] INFO  tLog - Validating login:
+23:58:04.453 [JettyServerThreadPool-26] INFO  tLog - Validating login:
+23:59:21.156 [JettyServerThreadPool-21] INFO  tLog - Validating login:
+23:59:50.034 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+00:00:51.439 [JettyServerThreadPool-37] INFO  tLog - Validating login:
+00:01:04.449 [JettyServerThreadPool-35] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"1", "type":"Consumable", "requestMessage":"I bought apples", "amount":"100.0", "dateSubmission":2022-01-08}}
+00:01:05.409 [JettyServerThreadPool-35] INFO  tLog - pending request5stored in database
+00:02:05.540 [JettyServerThreadPool-24] INFO  tLog - Validating login:
+00:03:08.509 [JettyServerThreadPool-25] INFO  tLog - Validating login:
+00:03:29.340 [JettyServerThreadPool-37] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"3", "type":"Consumable", "requestMessage":"15 wheels of cheese", "amount":"95.0", "dateSubmission":2022-01-08}}
+00:03:30.305 [JettyServerThreadPool-37] INFO  tLog - pending request6stored in database
+00:04:04.933 [JettyServerThreadPool-26] INFO  tLog - Validating login:
+00:04:32.876 [JettyServerThreadPool-24] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"3", "type":"Equipment", "requestMessage":"A steel blade", "amount":"10.0", "dateSubmission":2022-01-08}}
+00:04:33.953 [JettyServerThreadPool-24] INFO  tLog - pending request7stored in database
+00:05:03.035 [JettyServerThreadPool-25] INFO  tLog - Validating login:
+00:05:11.587 [JettyServerThreadPool-24] INFO  tLog - Validating login:
+00:05:23.131 [JettyServerThreadPool-25] INFO  tLog - Validating login:
+00:06:22.252 [JettyServerThreadPool-27] INFO  tLog - Validating login:
+00:06:29.779 [JettyServerThreadPool-24] INFO  tLog - Validating login:
+00:06:39.875 [JettyServerThreadPool-26] INFO  tLog - Validating login:
+00:07:02.170 [JettyServerThreadPool-24] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"2", "type":"Equipment", "requestMessage":"Paris to Tokyo", "amount":"9872.23", "dateSubmission":2022-01-08}}
+00:07:03.135 [JettyServerThreadPool-24] INFO  tLog - pending request8stored in database
+00:09:13.396 [JettyServerThreadPool-42] INFO  tLog - Validating login:
+17:57:47.105 [JettyServerThreadPool-39] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"1", "type":"Consumable", "requestMessage":"Potatoes", "amount":"9999.0", "dateSubmission":2022-01-08}}
+17:57:48.210 [JettyServerThreadPool-39] INFO  tLog - pending request9stored in database
+19:58:45.991 [JettyServerThreadPool-24] INFO  tLog - Completed store completed request in database: {"CompletedRequest":{"id":"1", "employeeId":"1", "managerId":"10", "status":"true", "response":"You got it buddy!", "dateResolved":2022-01-08}}
+19:59:33.093 [JettyServerThreadPool-24] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"10", "type":"Travel", "requestMessage":"I am a manager, give me my money now", "amount":"10000.0", "dateSubmission":2022-01-08}}
+19:59:34.125 [JettyServerThreadPool-24] INFO  tLog - pending request10stored in database
+20:00:24.041 [JettyServerThreadPool-39] INFO  tLog - Completed store completed request in database: {"CompletedRequest":{"id":"9", "employeeId":"1", "managerId":"10", "status":"true", "response":"You got it!", "dateResolved":2022-01-08}}
+20:03:17.153 [JettyServerThreadPool-40] INFO  tLog - Completed store completed request in database: {"CompletedRequest":{"id":"4", "employeeId":"3", "managerId":"10", "status":"false", "response":"too much", "dateResolved":2022-01-08}}
+23:35:15.001 [JettyServerThreadPool-39] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"3", "type":"Travel", "requestMessage":"Las Vegas baby", "amount":"0.05", "dateSubmission":2022-01-08}}
+23:35:16.103 [JettyServerThreadPool-39] INFO  tLog - pending request11stored in database
+01:46:24.932 [JettyServerThreadPool-46] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"6", "type":"Book", "requestMessage":"Tome of Reading", "amount":"203.32", "dateSubmission":2022-01-09}}
+01:46:25.855 [JettyServerThreadPool-46] INFO  tLog - pending request12stored in database
+01:50:10.880 [JettyServerThreadPool-23] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"6", "type":"Equipment", "requestMessage":"A New Hood", "amount":"92.32", "dateSubmission":2022-01-09}}
+01:50:11.787 [JettyServerThreadPool-23] INFO  tLog - pending request13stored in database
+01:51:19.473 [JettyServerThreadPool-49] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"6", "type":"Equipment", "requestMessage":"Fresh Sheets", "amount":"1234.12", "dateSubmission":2022-01-09}}
+01:51:20.411 [JettyServerThreadPool-49] INFO  tLog - pending request14stored in database
+01:52:13.383 [JettyServerThreadPool-25] INFO  tLog - New Pending Request Created: {"PendingRequest":{"id":"0", "employeeId":"6", "type":"Travel", "requestMessage":"A flight to Dragon Villa", "amount":"605.34", "dateSubmission":2022-01-09}}
+01:52:14.336 [JettyServerThreadPool-25] INFO  tLog - pending request15stored in database
+01:53:32.231 [JettyServerThreadPool-63] INFO  tLog - Completed store completed request in database: {"CompletedRequest":{"id":"10", "employeeId":"10", "managerId":"11", "status":"true", "response":"Sure", "dateResolved":2022-01-09}}
+00:49:57.664 [JettyServerThreadPool-38] INFO  tLog - Inserted new pending request in database
+00:52:29.128 [JettyServerThreadPool-36] INFO  tLog - Inserted new pending request in database
+00:28:50.214 [JettyServerThreadPool-24] INFO  tLog - Inserted new pending request in database
+14:56:53.846 [JettyServerThreadPool-36] INFO  tLog - Inserted new pending request in database
+17:00:39.515 [JettyServerThreadPool-40] INFO  tLog - Inserted new pending request in database
+17:16:16.320 [JettyServerThreadPool-26] INFO  tLog - Inserted new pending request in database
+17:17:53.041 [JettyServerThreadPool-27] INFO  tLog - Inserted new pending request in database
+17:46:47.794 [JettyServerThreadPool-26] INFO  tLog - Inserted new pending request in database
+13:37:50.996 [JettyServerThreadPool-41] INFO  tLog - Inserted new pending request in database
